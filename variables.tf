@@ -34,7 +34,7 @@ variable "ssh_key_name" {
 }
 
 variable "image" {
-  default = "r006-14140f94-fcc4-11e9-96e7-a72723715315"
+  default = "r006-ed3f775f-ad7e-4e37-ae62-7199b4988b00"
   description = "OS Image ID to be used for virtual instances"
 }
 
